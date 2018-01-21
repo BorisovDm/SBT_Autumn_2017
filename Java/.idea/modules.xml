@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ACM Tasks/ACM Tasks.iml" filepath="$PROJECT_DIR$/ACM Tasks/ACM Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeanUtils/BeanUtils.iml" filepath="$PROJECT_DIR$/BeanUtils/BeanUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionUtils/CollectionUtils.iml" filepath="$PROJECT_DIR$/CollectionUtils/CollectionUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountMap/CountMap.iml" filepath="$PROJECT_DIR$/CountMap/CountMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_SBT_Homework.iml" filepath="$PROJECT_DIR$/Java_SBT_Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Terminal/Terminal.iml" filepath="$PROJECT_DIR$/Terminal/Terminal.iml" />
+    </modules>
+  </component>
+</project>
